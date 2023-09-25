@@ -1,0 +1,4 @@
+Halo semua,
+Perkenalkan saya Dhika,
+Saya baru mulai belajar Git.
+ini adalah file pertama saya.
