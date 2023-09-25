@@ -4,5 +4,5 @@ Saya baru mulai belajar Git.
 ini adalah file pertama saya.
 
 
------
+/////////
 ini adalah baris yang saya tambahkan untuk contoh perubahan pertama.
